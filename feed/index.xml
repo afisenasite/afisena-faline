@@ -9,8 +9,8 @@
 
 <channel>
 	<title>afisfaline</title>
-	<atom:link href="http://localhost/wordpress//feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/wordpress/</link>
+	<atom:link href="https://afisenasite.github.io/afisena-faline//feed/" rel="self" type="application/rss+xml" />
+	<link>https://afisenasite.github.io/afisena-faline/</link>
 	<description></description>
 	<lastBuildDate>Sat, 05 Oct 2024 08:24:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,231 +21,91 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>We Fell In Love</title>
-		<link>http://localhost/wordpress//we-fell-in-love/</link>
-					<comments>http://localhost/wordpress//we-fell-in-love/#respond</comments>
+		<link>https://afisenasite.github.io/afisena-faline//we-fell-in-love/</link>
+					<comments>https://afisenasite.github.io/afisena-faline//we-fell-in-love/#respond</comments>
 		
 		<dc:creator><![CDATA[Afisena]]></dc:creator>
 		<pubDate>Sat, 05 Oct 2024 08:21:22 +0000</pubDate>
 				<category><![CDATA[Our Stories]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress//?p=810</guid>
+		<guid isPermaLink="false">https://afisenasite.github.io/afisena-faline//?p=810</guid>
 
 					<description><![CDATA[Sejak aku pulang dari Jember, semuanya mulai berubah. Faline, yang sebelumnya sempat menjauh, kini luluh. Perjuanganku menempuh ratusan kilometer hanya untuk bertemu dengannya ternyata tidak sia-sia. Setiap pengorbanan yang kuberikan, setiap langkah yang kutempuh, telah menyentuh hatinya. Hubungan kami semakin dekat, lebih dari yang pernah aku bayangkan. Setiap hari, kami saling berkabar, berbagi cerita, dan [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Sejak aku pulang dari Jember, semuanya mulai berubah. Faline, yang sebelumnya sempat menjauh, kini luluh. Perjuanganku menempuh ratusan kilometer hanya untuk bertemu dengannya ternyata tidak sia-sia. Setiap pengorbanan yang kuberikan, setiap langkah yang kutempuh, telah menyentuh hatinya. Hubungan kami semakin dekat, lebih dari yang pernah aku bayangkan. Setiap hari, kami saling berkabar, berbagi cerita, dan merajut mimpi bersama, meskipun kami harus menjalani hubungan jarak jauh. Rasa rindu yang membara justru membuat kami semakin ingin bertemu.</p>
-
-
-
-<p>Beberapa minggu kemudian, Faline datang ke Malang. Dia tak hanya datang untuk menemuiku, tapi juga untuk mengurus kelulusannya di kampus. Pertemuan itu menjadi momen yang sangat berarti bagiku. Kami menghabiskan waktu bersama, menikmati kebersamaan yang selama ini hanya bisa dirasakan melalui layar ponsel. Dari sana, semuanya terasa berbeda baik dalam pesan singkat maupun saat kami bersama di dunia nyata, kami melakukan semuanya berdua. Kemanapun pergi, dia selalu ada di sampingku, dan aku di sisinya. Kebersamaan itu terasa begitu hangat, seolah-olah dunia hanya milik kami berdua.</p>
-
-
-
-<p>Tanggal 3 Maret 2024, aku memutuskan untuk mengambil langkah besar. Setelah lama menjalin kedekatan, aku berencana untuk menyatakan perasaanku kepadanya. Rencana awalku adalah melakukannya di salah satu kafe terbaik di Malang, La Luna. Tapi entah kenapa, di saat yang penting itu, aku malah kelupaan. Mungkin karena grogi, mungkin karena momen yang terasa begitu intens. Akhirnya, pernyataan cintaku keluar di dalam mobil, di tengah malam yang tenang. Dengan keberanian yang tersisa, aku mengatakan perasaanku kepadanya.</p>
-
-
-
-<p>Dan di luar dugaanku, Faline tersenyum lembut dan menerima. Malam itu, aku resmi menjadi pacarnya. Seolah semua perjuanganku selama ini terbayar dengan sebuah jawaban yang begitu sederhana, namun penuh makna. Rasa syukur dan kebahagiaan memenuhi hatiku, menyadari bahwa kami kini benar-benar bersama.</p>
-
-
-
-<p>Hubungan kami kian hari semakin kuat. Tak hanya kami berdua yang merasakan kebahagiaan ini, orang tua kami pun mendukung sepenuhnya. Bahkan, mereka sempat menyarankan agar kami segera menikah. Namun, aku dan Faline tahu bahwa kami masih harus mempersiapkan banyak hal sebelum melangkah ke jenjang pernikahan. Ada impian yang masih kami kejar, ada karir yang harus kami bangun.</p>
-
-
-
-<p>Sekarang, kami adalah pasangan yang saling melengkapi, pasangan yang selalu mendukung satu sama lain. Dalam setiap langkah yang kami ambil, dalam setiap mimpi yang kami kejar, kami selalu melakukannya bersama-sama. Tidak peduli seberapa jauh jarak memisahkan, kami selalu menemukan cara untuk tetap dekat, untuk tetap merasa bahwa kami adalah satu.</p>
-
-
-
-<p>Dengan senyum di wajah dan cinta di hati, aku tahu, ini hanyalah permulaan dari kisah cinta yang lebih besar. Sebuah kisah di mana kami terus menulis halaman demi halaman baru, bersama-sama.</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[<p>Sejak aku pulang dari Jember, semuanya mulai berubah. Faline, yang sebelumnya sempat menjauh, kini luluh. Perjuanganku menempuh ratusan kilometer hanya untuk bertemu dengannya ternyata tidak sia-sia. Setiap pengorbanan yang kuberikan, setiap langkah yang kutempuh, telah menyentuh hatinya. Hubungan kami semakin dekat, lebih dari yang pernah aku bayangkan. Setiap hari, kami saling berkabar, berbagi cerita, dan merajut mimpi bersama, meskipun kami harus menjalani hubungan jarak jauh. Rasa rindu yang membara justru membuat kami semakin ingin bertemu.</p><p>Beberapa minggu kemudian, Faline datang ke Malang. Dia tak hanya datang untuk menemuiku, tapi juga untuk mengurus kelulusannya di kampus. Pertemuan itu menjadi momen yang sangat berarti bagiku. Kami menghabiskan waktu bersama, menikmati kebersamaan yang selama ini hanya bisa dirasakan melalui layar ponsel. Dari sana, semuanya terasa berbeda baik dalam pesan singkat maupun saat kami bersama di dunia nyata, kami melakukan semuanya berdua. Kemanapun pergi, dia selalu ada di sampingku, dan aku di sisinya. Kebersamaan itu terasa begitu hangat, seolah-olah dunia hanya milik kami berdua.</p><p>Tanggal 3 Maret 2024, aku memutuskan untuk mengambil langkah besar. Setelah lama menjalin kedekatan, aku berencana untuk menyatakan perasaanku kepadanya. Rencana awalku adalah melakukannya di salah satu kafe terbaik di Malang, La Luna. Tapi entah kenapa, di saat yang penting itu, aku malah kelupaan. Mungkin karena grogi, mungkin karena momen yang terasa begitu intens. Akhirnya, pernyataan cintaku keluar di dalam mobil, di tengah malam yang tenang. Dengan keberanian yang tersisa, aku mengatakan perasaanku kepadanya.</p><p>Dan di luar dugaanku, Faline tersenyum lembut dan menerima. Malam itu, aku resmi menjadi pacarnya. Seolah semua perjuanganku selama ini terbayar dengan sebuah jawaban yang begitu sederhana, namun penuh makna. Rasa syukur dan kebahagiaan memenuhi hatiku, menyadari bahwa kami kini benar-benar bersama.</p><p>Hubungan kami kian hari semakin kuat. Tak hanya kami berdua yang merasakan kebahagiaan ini, orang tua kami pun mendukung sepenuhnya. Bahkan, mereka sempat menyarankan agar kami segera menikah. Namun, aku dan Faline tahu bahwa kami masih harus mempersiapkan banyak hal sebelum melangkah ke jenjang pernikahan. Ada impian yang masih kami kejar, ada karir yang harus kami bangun.</p><p>Sekarang, kami adalah pasangan yang saling melengkapi, pasangan yang selalu mendukung satu sama lain. Dalam setiap langkah yang kami ambil, dalam setiap mimpi yang kami kejar, kami selalu melakukannya bersama-sama. Tidak peduli seberapa jauh jarak memisahkan, kami selalu menemukan cara untuk tetap dekat, untuk tetap merasa bahwa kami adalah satu.</p><p>Dengan senyum di wajah dan cinta di hati, aku tahu, ini hanyalah permulaan dari kisah cinta yang lebih besar. Sebuah kisah di mana kami terus menulis halaman demi halaman baru, bersama-sama.</p>]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/wordpress//we-fell-in-love/feed/</wfw:commentRss>
+					<wfw:commentRss>https://afisenasite.github.io/afisena-faline//we-fell-in-love/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>I Kept Chasing Her</title>
-		<link>http://localhost/wordpress//i-kept-chasing-her/</link>
-					<comments>http://localhost/wordpress//i-kept-chasing-her/#respond</comments>
+		<link>https://afisenasite.github.io/afisena-faline//i-kept-chasing-her/</link>
+					<comments>https://afisenasite.github.io/afisena-faline//i-kept-chasing-her/#respond</comments>
 		
 		<dc:creator><![CDATA[Afisena]]></dc:creator>
 		<pubDate>Sat, 05 Oct 2024 08:04:43 +0000</pubDate>
 				<category><![CDATA[Our Stories]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress//?p=805</guid>
+		<guid isPermaLink="false">https://afisenasite.github.io/afisena-faline//?p=805</guid>
 
 					<description><![CDATA[Berbulan-bulan telah berlalu sejak aku terakhir kali berbicara dengan Faline. Rindu yang kian hari semakin menumpuk seolah tak bisa lagi kutahan. Aku tahu bahwa aku harus melakukan sesuatu, aku harus bertemu dengannya. Kali ini, aku tak bisa hanya menunggu. Maka aku bertekad untuk pergi ke Jember, menemuinya, meski itu berarti harus menempuh ratusan kilometer dari [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Berbulan-bulan telah berlalu sejak aku terakhir kali berbicara dengan Faline. Rindu yang kian hari semakin menumpuk seolah tak bisa lagi kutahan. Aku tahu bahwa aku harus melakukan sesuatu, aku harus bertemu dengannya. Kali ini, aku tak bisa hanya menunggu. Maka aku bertekad untuk pergi ke Jember, menemuinya, meski itu berarti harus menempuh ratusan kilometer dari Malang.</p>
-
-
-
-<p>Rencana ini tak kususun sendiri. Aku menghubungi Fahim, teman lama yang sudah mengenal kami berdua. Bukan hanya Fahim, aku juga mengajak Jenny dan Fita, dua teman Faline yang sudah lama tidak bertemu dengannya. Aku tahu bahwa Faline sangat merindukan sahabat-sahabatnya, dan dengan membawa mereka, aku berharap bisa membuatnya bahagia.</p>
-
-
-
-<p>Kami memulai perjalanan pada hari Jumat, setelah salat Jumat, menggunakan mobil. Rasa senang memenuhi hatiku sepanjang perjalanan. Jarak yang jauh tidak terasa melelahkan karena di ujung sana, ada Faline yang menungguku. Setelah berjam-jam perjalanan, melewati ratusan kilometer, kami akhirnya tiba di Jember pada malam hari. Lampu-lampu kota bersinar lembut, namun pikiranku hanya terfokus pada satu hal melihat Faline lagi.</p>
-
-
-
-<p>Ketika kami tiba di rumahnya, aku melihatnya dari balik jendela mobil. Dia tampak begitu cantik dan lucu, sama seperti yang selalu aku bayangkan selama ini. Dalam hati, aku berkata, &#8220;Akhirnya, aku bisa melihatmu lagi.&#8221;</p>
-
-
-
-<p>Keesokan harinya, kami berlima; aku, Faline, Fahim, Jenny, dan Fita menghabiskan waktu bersama di Jember. Saat teman-temanku sibuk menikmati hari-hari mereka, pikiranku selalu tertuju pada Faline. Setiap kali melihatnya tersenyum atau tertawa, hatiku bergetar. Ada sesuatu dalam dirinya yang selalu membuatku terpesona, dan sekarang aku di sini, berada begitu dekat dengannya.</p>
-
-
-
-<p>Pagi-pagi sekali, kami pergi ke pantai untuk menikmati matahari terbit. Saat cahaya pertama muncul di ufuk timur, aku tak bisa menahan diri untuk sesekali mencuri pandang ke arah Faline. Wajahnya yang diterpa sinar matahari membuat segalanya tampak sempurna. Seolah saat itu, dunia hanya milik kami berlima.</p>
-
-
-
-<p>Sore harinya, kami menghabiskan waktu dengan nongkrong di tengah kota Jember. Kami bercanda, tertawa, dan bercerita. Namun, di tengah obrolan yang penuh tawa itu, aku merasakan sesuatu yang mendesak dalam hatiku. Aku tahu, saatnya telah tiba untuk mengungkapkan perasaanku, untuk memberitahunya alasan sebenarnya mengapa aku datang ke Jember.</p>
-
-
-
-<p>Dengan napas berat, aku mengungkapkan isi hatiku di tengah suasana yang ramai namun hangat itu. Aku mengatakan kepadanya bahwa selama ini aku tak pernah berhenti memikirkannya, bahwa perjalanan ini bukan hanya tentang menikmati waktu bersama teman-teman, tetapi tentang kerinduanku padanya. Aku ingin dia tahu betapa besar perasaanku, meskipun aku tak meminta balasan apa pun darinya.</p>
-
-
-
-<p>Malam itu berakhir dengan perasaan campur aduk di dalam diriku. Di satu sisi, aku merasa lega telah mengungkapkan perasaanku, tetapi di sisi lain, aku tahu bahwa tak ada jaminan dia akan merasakan hal yang sama. Saat waktu perpisahan tiba, aku merasa berat meninggalkannya. Keesokan harinya, kami harus kembali ke Malang.</p>
-
-
-
-<p>Dari balik jendela mobil, aku melihat Faline tersenyum untuk terakhir kalinya sebelum kami berpisah. Senyuman itu terasa begitu manis, namun juga membawa kesedihan yang dalam. Apa yang akan terjadi selanjutnya? Apakah perasaanku telah mencapai hatinya, atau apakah ini hanya akan menjadi kenangan lain yang tersimpan di dalam hatiku?</p>
-
-
-
-<p></p>
-]]></content:encoded>
+										<content:encoded><![CDATA[<p>Berbulan-bulan telah berlalu sejak aku terakhir kali berbicara dengan Faline. Rindu yang kian hari semakin menumpuk seolah tak bisa lagi kutahan. Aku tahu bahwa aku harus melakukan sesuatu, aku harus bertemu dengannya. Kali ini, aku tak bisa hanya menunggu. Maka aku bertekad untuk pergi ke Jember, menemuinya, meski itu berarti harus menempuh ratusan kilometer dari Malang.</p><p>Rencana ini tak kususun sendiri. Aku menghubungi Fahim, teman lama yang sudah mengenal kami berdua. Bukan hanya Fahim, aku juga mengajak Jenny dan Fita, dua teman Faline yang sudah lama tidak bertemu dengannya. Aku tahu bahwa Faline sangat merindukan sahabat-sahabatnya, dan dengan membawa mereka, aku berharap bisa membuatnya bahagia.</p><p>Kami memulai perjalanan pada hari Jumat, setelah salat Jumat, menggunakan mobil. Rasa senang memenuhi hatiku sepanjang perjalanan. Jarak yang jauh tidak terasa melelahkan karena di ujung sana, ada Faline yang menungguku. Setelah berjam-jam perjalanan, melewati ratusan kilometer, kami akhirnya tiba di Jember pada malam hari. Lampu-lampu kota bersinar lembut, namun pikiranku hanya terfokus pada satu hal melihat Faline lagi.</p><p>Ketika kami tiba di rumahnya, aku melihatnya dari balik jendela mobil. Dia tampak begitu cantik dan lucu, sama seperti yang selalu aku bayangkan selama ini. Dalam hati, aku berkata, &#8220;Akhirnya, aku bisa melihatmu lagi.&#8221;</p><p>Keesokan harinya, kami berlima; aku, Faline, Fahim, Jenny, dan Fita menghabiskan waktu bersama di Jember. Saat teman-temanku sibuk menikmati hari-hari mereka, pikiranku selalu tertuju pada Faline. Setiap kali melihatnya tersenyum atau tertawa, hatiku bergetar. Ada sesuatu dalam dirinya yang selalu membuatku terpesona, dan sekarang aku di sini, berada begitu dekat dengannya.</p><p>Pagi-pagi sekali, kami pergi ke pantai untuk menikmati matahari terbit. Saat cahaya pertama muncul di ufuk timur, aku tak bisa menahan diri untuk sesekali mencuri pandang ke arah Faline. Wajahnya yang diterpa sinar matahari membuat segalanya tampak sempurna. Seolah saat itu, dunia hanya milik kami berlima.</p><p>Sore harinya, kami menghabiskan waktu dengan nongkrong di tengah kota Jember. Kami bercanda, tertawa, dan bercerita. Namun, di tengah obrolan yang penuh tawa itu, aku merasakan sesuatu yang mendesak dalam hatiku. Aku tahu, saatnya telah tiba untuk mengungkapkan perasaanku, untuk memberitahunya alasan sebenarnya mengapa aku datang ke Jember.</p><p>Dengan napas berat, aku mengungkapkan isi hatiku di tengah suasana yang ramai namun hangat itu. Aku mengatakan kepadanya bahwa selama ini aku tak pernah berhenti memikirkannya, bahwa perjalanan ini bukan hanya tentang menikmati waktu bersama teman-teman, tetapi tentang kerinduanku padanya. Aku ingin dia tahu betapa besar perasaanku, meskipun aku tak meminta balasan apa pun darinya.</p><p>Malam itu berakhir dengan perasaan campur aduk di dalam diriku. Di satu sisi, aku merasa lega telah mengungkapkan perasaanku, tetapi di sisi lain, aku tahu bahwa tak ada jaminan dia akan merasakan hal yang sama. Saat waktu perpisahan tiba, aku merasa berat meninggalkannya. Keesokan harinya, kami harus kembali ke Malang.</p><p>Dari balik jendela mobil, aku melihat Faline tersenyum untuk terakhir kalinya sebelum kami berpisah. Senyuman itu terasa begitu manis, namun juga membawa kesedihan yang dalam. Apa yang akan terjadi selanjutnya? Apakah perasaanku telah mencapai hatinya, atau apakah ini hanya akan menjadi kenangan lain yang tersimpan di dalam hatiku?</p><p></p>]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/wordpress//i-kept-chasing-her/feed/</wfw:commentRss>
+					<wfw:commentRss>https://afisenasite.github.io/afisena-faline//i-kept-chasing-her/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>She Cut Off</title>
-		<link>http://localhost/wordpress//she-cut-off/</link>
-					<comments>http://localhost/wordpress//she-cut-off/#respond</comments>
+		<link>https://afisenasite.github.io/afisena-faline//she-cut-off/</link>
+					<comments>https://afisenasite.github.io/afisena-faline//she-cut-off/#respond</comments>
 		
 		<dc:creator><![CDATA[Afisena]]></dc:creator>
 		<pubDate>Fri, 04 Oct 2024 20:37:32 +0000</pubDate>
 				<category><![CDATA[Our Stories]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress//?p=799</guid>
+		<guid isPermaLink="false">https://afisenasite.github.io/afisena-faline//?p=799</guid>
 
 					<description><![CDATA[Setelah Faline tiba-tiba memutuskan untuk menjauh, dengan alasan klise bahwa aku &#8220;terlalu baik&#8221; untuknya, dunia seakan runtuh di hadapanku. Hubungan kami yang belum genap satu bulan terasa begitu berarti bagiku, namun baginya, sepertinya tidak. Kehilangan itu terasa sangat berat, jauh melebihi yang kuduga. Aku begitu terbiasa bersama Faline berbagi cerita, tawa, dan kehangatan dan kini [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Setelah Faline tiba-tiba memutuskan untuk menjauh, dengan alasan klise bahwa aku &#8220;terlalu baik&#8221; untuknya, dunia seakan runtuh di hadapanku. Hubungan kami yang belum genap satu bulan terasa begitu berarti bagiku, namun baginya, sepertinya tidak. Kehilangan itu terasa sangat berat, jauh melebihi yang kuduga. Aku begitu terbiasa bersama Faline berbagi cerita, tawa, dan kehangatan dan kini semuanya harus kulakukan sendirian. Rindu menggerogoti setiap hariku, namun aku tak punya hak untuk bertanya kabarnya. Tak ada yang bisa kulakukan selain melihatnya dari jauh melalui update status di media sosial, atau bertanya pada Fahim.</p>
-
-
-
-<p>Namun, kenyataan yang paling menyakitkan datang ketika aku tahu bahwa Faline bertemu kembali dengan mantan pacarnya. Perasaan sakit dan kecewa membanjiri hatiku. Faline tampaknya tak pernah benar-benar meninggalkan masa lalunya. Aku merasa seperti pelarian, seseorang yang dia temui di tengah kekosongan sebelum kembali pada cinta lamanya. Ketika dia memutuskan untuk kembali bersama mantannya, rasanya seperti seluruh dunia runtuh di hadapanku.</p>
-
-
-
-<p>Hari-hari berikutnya terasa begitu berat. Setiap kali mendengar atau melihat mereka bersama, hatiku terasa hancur sedikit demi sedikit. Namun di tengah rasa sakit, aku tetap berharap. Aku berdoa setiap hari, memohon pada Tuhan untuk diberi satu kesempatan lagi. Dan akhirnya, doa itu terjawab. Hubungan Faline dengan mantannya ternyata tidak berjalan mulus. Mereka bertengkar setiap hari, dan hubungan mereka tampak berada di ambang kehancuran.</p>
-
-
-
-<p>Kesempatan itu datang, dan aku tak ingin menyia-nyiakannya. Aku menyusun strategi baru, cara untuk mendekatinya kembali tanpa terlihat putus asa. Puncaknya tiba ketika aku memutuskan untuk pergi ke Jember. Bukan perjalanan yang singkat, tapi kerinduanku pada Faline mengalahkan segalanya. Selama dua hari di Jember, kami menghabiskan waktu bersama. Tidak ada pengakuan cinta besar atau kata-kata dramatis dariku, aku hanya ingin dia tahu bahwa aku sangat merindukannya, dan itulah alasan mengapa aku datang jauh-jauh ke Jember. Faline terlihat tersentuh oleh kehadiranku.</p>
-
-
-
-<p>Hari terakhir di Jember, sebelum aku pulang, Faline mengatakan sesuatu yang membuat harapanku kembali menyala. “Kasih tahu aku kalau kamu sudah sampai rumah,” katanya dengan senyum yang lembut. Kata-kata itu sederhana, namun dalam hatiku, itu seperti harapan yang mulai terbit. Aku pulang dengan hati yang bercampur aduk antara bahagia dan cemas.</p>
-
-
-
-<p>Setelah aku kembali ke Malang, sesuatu yang tak terduga terjadi. Hubungan Faline dengan mantannya benar-benar berakhir. Mereka tak pernah berhubungan lagi setelah peristiwa itu. Hari demi hari, aku terus mendekatinya. Usahaku datang ke Jember tampaknya meninggalkan kesan yang dalam di hatinya. Kami mulai semakin dekat lagi, seolah ada lembaran baru yang terbuka di antara kami.</p>
-
-
-
-<p>Namun, meski segalanya tampak mulai membaik, aku masih merasa ada sesuatu yang belum sepenuhnya terungkap. Apakah perasaannya kali ini benar-benar tulus? Apakah aku sudah benar-benar menjadi orang yang dia butuhkan? Atau mungkin, masih ada bayang-bayang dari masa lalunya yang belum sepenuhnya hilang?</p>
-
-
-
-<p>Dan di sinilah aku sekarang, di tengah kerumitan perasaan yang tak terjawab. Semua upaya, rasa, dan cinta telah kutaruhkan. Tapi apakah aku benar-benar telah memenangkan hatinya?</p>
-
-
-
-<p>Jawabannya mungkin akan terungkap di pertemuan kami berikutnya&#8230;</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[<p>Setelah Faline tiba-tiba memutuskan untuk menjauh, dengan alasan klise bahwa aku &#8220;terlalu baik&#8221; untuknya, dunia seakan runtuh di hadapanku. Hubungan kami yang belum genap satu bulan terasa begitu berarti bagiku, namun baginya, sepertinya tidak. Kehilangan itu terasa sangat berat, jauh melebihi yang kuduga. Aku begitu terbiasa bersama Faline berbagi cerita, tawa, dan kehangatan dan kini semuanya harus kulakukan sendirian. Rindu menggerogoti setiap hariku, namun aku tak punya hak untuk bertanya kabarnya. Tak ada yang bisa kulakukan selain melihatnya dari jauh melalui update status di media sosial, atau bertanya pada Fahim.</p><p>Namun, kenyataan yang paling menyakitkan datang ketika aku tahu bahwa Faline bertemu kembali dengan mantan pacarnya. Perasaan sakit dan kecewa membanjiri hatiku. Faline tampaknya tak pernah benar-benar meninggalkan masa lalunya. Aku merasa seperti pelarian, seseorang yang dia temui di tengah kekosongan sebelum kembali pada cinta lamanya. Ketika dia memutuskan untuk kembali bersama mantannya, rasanya seperti seluruh dunia runtuh di hadapanku.</p><p>Hari-hari berikutnya terasa begitu berat. Setiap kali mendengar atau melihat mereka bersama, hatiku terasa hancur sedikit demi sedikit. Namun di tengah rasa sakit, aku tetap berharap. Aku berdoa setiap hari, memohon pada Tuhan untuk diberi satu kesempatan lagi. Dan akhirnya, doa itu terjawab. Hubungan Faline dengan mantannya ternyata tidak berjalan mulus. Mereka bertengkar setiap hari, dan hubungan mereka tampak berada di ambang kehancuran.</p><p>Kesempatan itu datang, dan aku tak ingin menyia-nyiakannya. Aku menyusun strategi baru, cara untuk mendekatinya kembali tanpa terlihat putus asa. Puncaknya tiba ketika aku memutuskan untuk pergi ke Jember. Bukan perjalanan yang singkat, tapi kerinduanku pada Faline mengalahkan segalanya. Selama dua hari di Jember, kami menghabiskan waktu bersama. Tidak ada pengakuan cinta besar atau kata-kata dramatis dariku, aku hanya ingin dia tahu bahwa aku sangat merindukannya, dan itulah alasan mengapa aku datang jauh-jauh ke Jember. Faline terlihat tersentuh oleh kehadiranku.</p><p>Hari terakhir di Jember, sebelum aku pulang, Faline mengatakan sesuatu yang membuat harapanku kembali menyala. “Kasih tahu aku kalau kamu sudah sampai rumah,” katanya dengan senyum yang lembut. Kata-kata itu sederhana, namun dalam hatiku, itu seperti harapan yang mulai terbit. Aku pulang dengan hati yang bercampur aduk antara bahagia dan cemas.</p><p>Setelah aku kembali ke Malang, sesuatu yang tak terduga terjadi. Hubungan Faline dengan mantannya benar-benar berakhir. Mereka tak pernah berhubungan lagi setelah peristiwa itu. Hari demi hari, aku terus mendekatinya. Usahaku datang ke Jember tampaknya meninggalkan kesan yang dalam di hatinya. Kami mulai semakin dekat lagi, seolah ada lembaran baru yang terbuka di antara kami.</p><p>Namun, meski segalanya tampak mulai membaik, aku masih merasa ada sesuatu yang belum sepenuhnya terungkap. Apakah perasaannya kali ini benar-benar tulus? Apakah aku sudah benar-benar menjadi orang yang dia butuhkan? Atau mungkin, masih ada bayang-bayang dari masa lalunya yang belum sepenuhnya hilang?</p><p>Dan di sinilah aku sekarang, di tengah kerumitan perasaan yang tak terjawab. Semua upaya, rasa, dan cinta telah kutaruhkan. Tapi apakah aku benar-benar telah memenangkan hatinya?</p><p>Jawabannya mungkin akan terungkap di pertemuan kami berikutnya&#8230;</p>]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/wordpress//she-cut-off/feed/</wfw:commentRss>
+					<wfw:commentRss>https://afisenasite.github.io/afisena-faline//she-cut-off/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Met</title>
-		<link>http://localhost/wordpress//we-met/</link>
-					<comments>http://localhost/wordpress//we-met/#respond</comments>
+		<link>https://afisenasite.github.io/afisena-faline//we-met/</link>
+					<comments>https://afisenasite.github.io/afisena-faline//we-met/#respond</comments>
 		
 		<dc:creator><![CDATA[Afisena]]></dc:creator>
 		<pubDate>Fri, 04 Oct 2024 09:34:33 +0000</pubDate>
 				<category><![CDATA[Our Stories]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress//?p=777</guid>
+		<guid isPermaLink="false">https://afisenasite.github.io/afisena-faline//?p=777</guid>
 
 					<description><![CDATA[Pertemuan pertama kami yang sudah lama dinanti akhirnya terjadi pada sore hari di tanggal 5 Juni 2023. Setelah sekian lama hanya berkomunikasi lewat pesan singkat, ada perasaan berdebar-debar yang menguasai diriku saat akhirnya kami sepakat untuk bertemu. Tapi bukan di Kogu Cafe, melainkan di kosnya terlebih dahulu. Saat itu, aku menyusul Faline ke kosnya di [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Pertemuan pertama kami yang sudah lama dinanti akhirnya terjadi pada sore hari di tanggal 5 Juni 2023. Setelah sekian lama hanya berkomunikasi lewat pesan singkat, ada perasaan berdebar-debar yang menguasai diriku saat akhirnya kami sepakat untuk bertemu. Tapi bukan di Kogu Cafe, melainkan di kosnya terlebih dahulu. Saat itu, aku menyusul Faline ke kosnya di tengah suasana sore yang mendung, lalu kami berdua berangkat bersama naik sepeda motor ke Kogu Cafe.</p>
-
-
-
-<p>Sepanjang perjalanan menuju kafe, aku sempat mencuri pandang ke arahnya. Wajahnya yang terlihat tenang di bawah sinar lampu jalan yang mulai menyala, rambutnya yang tergerai lembut tertiup angin, membuatku semakin tak sabar untuk mengenalnya lebih dalam. Perasaan hangat perlahan merasuk, menggantikan kegugupan yang semula kurasakan. Suara deru motor yang monoton menjadi latar belakang saat kami melewati jalan-jalan kota Malang. Tidak banyak kata-kata yang terucap di antara kami, tetapi ada ketenangan yang tumbuh di hati, seolah kami telah lama saling mengenal.</p>
-
-
-
-<p>Sesampainya di Kogu Cafe, suasana lebih santai. Faline duduk di meja yang terletak di dekat jendela besar, sementara aku memesan minuman. Kafe itu dipenuhi oleh orang-orang yang sepertinya menikmati suasana hujan yang baru saja reda, aroma kopi bercampur dengan hawa dingin sisa hujan. Kami mulai berbicara, kali ini lebih santai, tanpa ada lagi rasa canggung yang membatasi. Waktu seolah berjalan lebih cepat ketika aku dan dia berbagi cerita. Dari hal-hal sederhana tentang keseharian, hingga obrolan yang lebih mendalam tentang impian dan masa depan.</p>
-
-
-
-<p>Namun, ada satu hal yang selalu menahan langkahku. Meskipun percakapan kami begitu hangat, aku bisa merasakan ada jarak yang tak kasat mata di antara kami. Sebuah jarak yang tak bisa dijembatani hanya dengan obrolan biasa. Faline, meskipun semakin terbuka, tetap menyimpan sesuatu di balik senyumnya yang menawan itu. Aku terlalu sibuk menikmati momen itu untuk menyadarinya, tetapi di lubuk hati, ada rasa khawatir yang perlahan mengintai.</p>
-
-
-
-<p>Beberapa minggu setelah pertemuan kami, hubungan kami mulai terasa berubah. Pesan-pesan yang sebelumnya lancar mulai terputus-putus. Dia semakin jarang membalas pesan, dan ketika dia melakukannya, jawabannya terasa datar. Aku mulai merasakan kegelisahan yang tak bisa kugambarkan dengan kata-kata. Rasa takut mulai menjalari pikiranku ada sesuatu yang tak beres. Meski tak ada kata-kata langsung, aku bisa merasakan perubahan yang mengganggu. Ternyata, ketakutanku bukan tanpa alasan.</p>
-
-
-
-<p>Suatu hari, kabar itu datang menghantamku tanpa ampun. Faline bertemu kembali dengan mantan kekasihnya. Awalnya, aku hanya menganggapnya sebagai pertemuan biasa, tetapi kenyataan berkata lain. Mereka tidak hanya bertemu, melainkan mulai kembali terhubung. Hatiku tenggelam dalam perasaan sakit yang tidak pernah kurasakan sebelumnya. Aku hanya bisa diam, tidak tahu bagaimana harus bereaksi. Faline tidak mengatakan apa-apa kepadaku. Dia hanya membiarkan situasi ini berlarut-larut, seolah menunggu aku menyadarinya sendiri.</p>
-
-
-
-<p>Beberapa bulan berlalu setelah pertemuan mereka, dan kecurigaanku berubah menjadi kenyataan pahit. Faline benar-benar kembali menjalin hubungan dengan mantan kekasihnya. Semua rasa yang pernah kubangun, semua harapan yang kupelihara selama ini, hancur dalam sekejap. Dia memilih orang lain, dan aku hanya bisa menyaksikan dari kejauhan. Hatiku pecah, rasa kecewa dan sakit hati menyelimutiku selama berminggu-minggu. Setiap pesan yang kukirim tak pernah lagi mendapatkan jawaban seperti sebelumnya. Keheningan yang mencekam menyelimuti hubungan kami yang belum sempat terwujud.</p>
-
-
-
-<p>Bagaimana aku bisa melupakan itu semua? Bagaimana mungkin aku bisa kembali menjalani hari-hari seolah tidak ada apa-apa? Aku mencoba untuk tidak memikirkannya, tapi setiap kali aku membuka ponselku, melihat percakapan terakhir kami yang mulai memudar di layar, rasa sakit itu kembali muncul. Aku merasa kehilangan kendali, tak tahu harus berbuat apa.</p>
-
-
-
-<p>Aku berharap bisa melupakannya, berharap waktu bisa menyembuhkan segalanya. Namun, semakin aku berusaha, semakin ingatan tentangnya menguasai pikiranku. Kenangan tentang pertemuan kami di Kogu Cafe, tawa ringan kami, obrolan santai, semuanya kini terasa seperti mimpi yang hancur. Aku tidak tahu apakah aku bisa melanjutkan hidup tanpa memikirkannya, atau apakah ada jalan kembali setelah ini. Tapi satu hal yang kutahu pasti kisah ini belum selesai.</p>
-
-
-
-<p>Mungkin suatu saat, aku akan bertemu lagi dengannya. Mungkin di tempat yang berbeda, dengan perasaan yang berbeda. Tapi untuk saat ini, yang tersisa hanyalah pertanyaan-pertanyaan yang tak terjawab dan hati yang terluka. Apa yang akan terjadi selanjutnya? Hanya waktu yang bisa memberi tahu jawabannya&#8230;</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[<p>Pertemuan pertama kami yang sudah lama dinanti akhirnya terjadi pada sore hari di tanggal 5 Juni 2023. Setelah sekian lama hanya berkomunikasi lewat pesan singkat, ada perasaan berdebar-debar yang menguasai diriku saat akhirnya kami sepakat untuk bertemu. Tapi bukan di Kogu Cafe, melainkan di kosnya terlebih dahulu. Saat itu, aku menyusul Faline ke kosnya di tengah suasana sore yang mendung, lalu kami berdua berangkat bersama naik sepeda motor ke Kogu Cafe.</p><p>Sepanjang perjalanan menuju kafe, aku sempat mencuri pandang ke arahnya. Wajahnya yang terlihat tenang di bawah sinar lampu jalan yang mulai menyala, rambutnya yang tergerai lembut tertiup angin, membuatku semakin tak sabar untuk mengenalnya lebih dalam. Perasaan hangat perlahan merasuk, menggantikan kegugupan yang semula kurasakan. Suara deru motor yang monoton menjadi latar belakang saat kami melewati jalan-jalan kota Malang. Tidak banyak kata-kata yang terucap di antara kami, tetapi ada ketenangan yang tumbuh di hati, seolah kami telah lama saling mengenal.</p><p>Sesampainya di Kogu Cafe, suasana lebih santai. Faline duduk di meja yang terletak di dekat jendela besar, sementara aku memesan minuman. Kafe itu dipenuhi oleh orang-orang yang sepertinya menikmati suasana hujan yang baru saja reda, aroma kopi bercampur dengan hawa dingin sisa hujan. Kami mulai berbicara, kali ini lebih santai, tanpa ada lagi rasa canggung yang membatasi. Waktu seolah berjalan lebih cepat ketika aku dan dia berbagi cerita. Dari hal-hal sederhana tentang keseharian, hingga obrolan yang lebih mendalam tentang impian dan masa depan.</p><p>Namun, ada satu hal yang selalu menahan langkahku. Meskipun percakapan kami begitu hangat, aku bisa merasakan ada jarak yang tak kasat mata di antara kami. Sebuah jarak yang tak bisa dijembatani hanya dengan obrolan biasa. Faline, meskipun semakin terbuka, tetap menyimpan sesuatu di balik senyumnya yang menawan itu. Aku terlalu sibuk menikmati momen itu untuk menyadarinya, tetapi di lubuk hati, ada rasa khawatir yang perlahan mengintai.</p><p>Beberapa minggu setelah pertemuan kami, hubungan kami mulai terasa berubah. Pesan-pesan yang sebelumnya lancar mulai terputus-putus. Dia semakin jarang membalas pesan, dan ketika dia melakukannya, jawabannya terasa datar. Aku mulai merasakan kegelisahan yang tak bisa kugambarkan dengan kata-kata. Rasa takut mulai menjalari pikiranku ada sesuatu yang tak beres. Meski tak ada kata-kata langsung, aku bisa merasakan perubahan yang mengganggu. Ternyata, ketakutanku bukan tanpa alasan.</p><p>Suatu hari, kabar itu datang menghantamku tanpa ampun. Faline bertemu kembali dengan mantan kekasihnya. Awalnya, aku hanya menganggapnya sebagai pertemuan biasa, tetapi kenyataan berkata lain. Mereka tidak hanya bertemu, melainkan mulai kembali terhubung. Hatiku tenggelam dalam perasaan sakit yang tidak pernah kurasakan sebelumnya. Aku hanya bisa diam, tidak tahu bagaimana harus bereaksi. Faline tidak mengatakan apa-apa kepadaku. Dia hanya membiarkan situasi ini berlarut-larut, seolah menunggu aku menyadarinya sendiri.</p><p>Beberapa bulan berlalu setelah pertemuan mereka, dan kecurigaanku berubah menjadi kenyataan pahit. Faline benar-benar kembali menjalin hubungan dengan mantan kekasihnya. Semua rasa yang pernah kubangun, semua harapan yang kupelihara selama ini, hancur dalam sekejap. Dia memilih orang lain, dan aku hanya bisa menyaksikan dari kejauhan. Hatiku pecah, rasa kecewa dan sakit hati menyelimutiku selama berminggu-minggu. Setiap pesan yang kukirim tak pernah lagi mendapatkan jawaban seperti sebelumnya. Keheningan yang mencekam menyelimuti hubungan kami yang belum sempat terwujud.</p><p>Bagaimana aku bisa melupakan itu semua? Bagaimana mungkin aku bisa kembali menjalani hari-hari seolah tidak ada apa-apa? Aku mencoba untuk tidak memikirkannya, tapi setiap kali aku membuka ponselku, melihat percakapan terakhir kami yang mulai memudar di layar, rasa sakit itu kembali muncul. Aku merasa kehilangan kendali, tak tahu harus berbuat apa.</p><p>Aku berharap bisa melupakannya, berharap waktu bisa menyembuhkan segalanya. Namun, semakin aku berusaha, semakin ingatan tentangnya menguasai pikiranku. Kenangan tentang pertemuan kami di Kogu Cafe, tawa ringan kami, obrolan santai, semuanya kini terasa seperti mimpi yang hancur. Aku tidak tahu apakah aku bisa melanjutkan hidup tanpa memikirkannya, atau apakah ada jalan kembali setelah ini. Tapi satu hal yang kutahu pasti kisah ini belum selesai.</p><p>Mungkin suatu saat, aku akan bertemu lagi dengannya. Mungkin di tempat yang berbeda, dengan perasaan yang berbeda. Tapi untuk saat ini, yang tersisa hanyalah pertanyaan-pertanyaan yang tak terjawab dan hati yang terluka. Apa yang akan terjadi selanjutnya? Hanya waktu yang bisa memberi tahu jawabannya&#8230;</p>]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/wordpress//we-met/feed/</wfw:commentRss>
+					<wfw:commentRss>https://afisenasite.github.io/afisena-faline//we-met/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>http://localhost/wordpress//hello-world/</link>
-					<comments>http://localhost/wordpress//hello-world/#comments</comments>
+		<link>https://afisenasite.github.io/afisena-faline//hello-world/</link>
+					<comments>https://afisenasite.github.io/afisena-faline//hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Afisena]]></dc:creator>
 		<pubDate>Wed, 02 Oct 2024 17:54:06 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress//?p=1</guid>
+		<guid isPermaLink="false">https://afisenasite.github.io/afisena-faline//?p=1</guid>
 
 					<description><![CDATA[Welcome to Afisena Sites. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[<p>Welcome to <a href="http://localhost/wordpress/">Afisena Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/wordpress//hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://afisenasite.github.io/afisena-faline//hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
